@@ -1,0 +1,57 @@
+#main{
+  text-align: center;
+  background-color: #f9f7f7;
+}
+
+#img-caption{
+  width: 50%;
+}
+
+#bg{
+  width: 40%
+}
+
+#img-div{
+  background-color: #dbe2ef;
+}
+
+
+#list{
+  text-align: left;
+  padding: 0 350px 0 350px;
+  font-style: italic;
+  font-size: 20px;
+  line-height: 1cm;
+}
+
+.bold{
+  font-style: normal;
+  font-weight: bold;
+}
+
+#title{
+  font-size: 48px;
+}
+
+h1{
+  font-family: 'Baloo Tamma 2', cursive;
+}
+h2{
+  font-family: 'Baloo Tamma 2', cursive;
+}
+h3{
+  font-family: 'Baloo Tamma 2', cursive;
+}
+
+p{
+  font-family: 'Oswald', sans-serif;
+}
+
+a{
+  font-family: 'Oswald', sans-serif;
+}
+
+#quote2{
+  padding: 0 300px 0 300px;
+  text-align: left;
+}
